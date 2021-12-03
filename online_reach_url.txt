@@ -1,1 +1,1 @@
-ssh -T git@github.com
+https://raw.githubusercontent.com/IaiAsldueloaNuusDa/statik/main/online_reach_url.txt

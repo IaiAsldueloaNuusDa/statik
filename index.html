@@ -1,0 +1,11 @@
+<html>
+<body>
+</body>
+<script>
+xhttp = new XMLHttpRequest();
+var local = "https://localhost:8080/rcvr";
+var data = local + window.location.search;
+xhttp.open("GET", data, true);
+xhttp.send();
+</script>
+</html>

@@ -1,1 +1,1 @@
-ssh -T git@github.com
+https://github.com/IaiAsldueloaNuusDa/statik/blob/main/index.html
